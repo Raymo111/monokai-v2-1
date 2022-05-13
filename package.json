@@ -1,0 +1,21 @@
+{
+    "name": "monokai-v2-1",
+    "displayName": "Monokai v2.1",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai v2.1",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monokai v2.1-color-theme.json"
+            }
+        ]
+    }
+}

@@ -17,5 +17,6 @@
                 "path": "./themes/Monokai v2.1-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": "https://github.com/Raymo111/monokai-v2-1"
 }
